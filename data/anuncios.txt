@@ -1,0 +1,3 @@
+# Teacher announcements — date|author|message
+# Written from the Teacher panel (Announcements tab), read live in the Student dashboard.
+# Each line: date|author|message

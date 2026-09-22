@@ -1,0 +1,5 @@
+# username|password|role|fullName|course
+andrea.rojas|estudiante2026|STUDENT|Andrea Rojas|Group 3 - Technical English
+carla.mendoza|profesor2026|TEACHER|Carla Mendoza Vargas|Group 3 - Technical English
+admin.umss|admin2026|ADMIN|Administrador UMSS|
+Jose123|jose321|STUDENT|Jose salguero Almanza|

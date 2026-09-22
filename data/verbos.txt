@@ -1,0 +1,20 @@
+# id|english|spanish|imagePath|ipa|pronunciation|presentForm|pastForm|futureForm
+# presentForm = 3rd person singular present (she/he/it + verb)
+# pastForm    = simple past
+# futureForm  = gerund (used in continuous / future sentences)
+1|Practice|Practicar|images/verbos/practice.png|/ˈpræk.tɪs/|prák·tis|practices|practiced|practicing
+2|Teach|Enseñar|images/verbos/teach.png|/tiːtʃ/|tích|teaches|taught|teaching
+3|Learn|Aprender|images/verbos/learn.png|/lɜːrn/|lérn|learns|learned|learning
+4|Answer|Responder|images/verbos/answer.png|/ˈæn.sər/|án·suhr|answers|answered|answering
+5|Ask|Preguntar|images/verbos/ask.png|/æsk/|ásk|asks|asked|asking
+6|Speak|Hablar|images/verbos/speak.png|/spiːk/|spík|speaks|spoke|speaking
+7|Listen|Escuchar|images/verbos/listen.png|/ˈlɪs.ən/|lís·en|listens|listened|listening
+8|Dance|Bailar|images/verbos/dance.png|/dæns/|dáns|dances|danced|dancing
+9|Talk|Hablar/Conversar|images/verbos/talk.png|/tɔːk/|tók|talks|talked|talking
+10|Rub|Frotar|images/verbos/rub.png|/rʌb/|rúb|rubs|rubbed|rubbing
+11|Sleep|Dormir|images/verbos/sleep.png|/sliːp/|slíp|sleeps|slept|sleeping
+12|Write|Escribir|images/verbos/write.png|/raɪt/|ráit|writes|wrote|writing
+13|Sing|Cantar|images/verbos/sing.png|/sɪŋ/|síng|sings|sang|singing
+14|Read|Leer|images/verbos/read.png|/riːd/|ríd|reads|read|reading
+15|Eat|Comer|images/verbos/eat.png|/iːt/|ít|eats|ate|eating
+16|Play|Jugar|images/verbos/play.png|/pleɪ/|pléi|plays|played|playing
